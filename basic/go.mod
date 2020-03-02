@@ -1,3 +1,3 @@
-module github.com/goexplorer-dev/samples/bare
+module github.com/goexplorer-dev/samples/basic
 
 go 1.14
